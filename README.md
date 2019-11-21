@@ -1,0 +1,1 @@
+# Factorial_de_numero_n
